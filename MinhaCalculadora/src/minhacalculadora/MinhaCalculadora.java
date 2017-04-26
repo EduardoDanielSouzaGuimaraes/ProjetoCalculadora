@@ -17,6 +17,7 @@ public class MinhaCalculadora {
      */
     public static void main(String[] args) {
         System.out.println("Minha calculadora");
+        System.out.println("Estive Aqui");
     }
     
 }
